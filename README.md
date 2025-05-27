@@ -47,7 +47,7 @@ just some 🔧 Tech & Tools
 [linux-link]: https://kernel.org/
 
 [li-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[li-link]: https://www.linkedin.com/in/YOUR_LINKEDIN/
+[li-link]: https://www.linkedin.com/in/afrim-mustafa-915976295/
 [mail-badge]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[mail-link]: mailto:your.email@example.com
+[mail-link]: mailto:mustfafrim@gmail.com
 

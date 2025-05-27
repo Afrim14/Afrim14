@@ -1,3 +1,9 @@
+<!-- GitHub profile stats -->
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afrim14&theme=dark" />
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afrim14&theme=dark&layout=compact" />
+
+<br clear="left"/>
+
 just some 🔧 Tech & Tools
 
 [![TypeScript][ts-badge]][ts-link]
